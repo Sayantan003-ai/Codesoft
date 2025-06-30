@@ -7,8 +7,7 @@ This repository contains Java projects completed as part of the **CodSoft Java D
 - **Number Guessing Game** – Guess a random number within limited attempts.
 - **Student Grade Calculator** – Calculates average marks and assigns grades.
 - **ATM Interface** – Simulates ATM operations: check balance, deposit, withdraw.
-- **Currency Converter** *(Coming Soon)* – Converts values between currencies.
-- **Student Management System** *(Coming Soon)* – Basic system to manage student data.
+
 
 ## 💡 Tech Used
 
